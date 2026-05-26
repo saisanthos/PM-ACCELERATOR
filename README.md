@@ -53,8 +53,3 @@ The ensemble forecasting model improved prediction stability by combining multip
 ## PM Accelerator Mission
 PM Accelerator empowers future professionals with real-world AI, data science, and product management experience through hands-on industry projects.
 
-## How to Run
-
-1. Install requirements:
-```bash
-pip install -r requirements.txt
